@@ -1,4 +1,4 @@
-# stockmarket-app
+# stock-market-tracker
 
 A stockmarket-app project
 
@@ -10,8 +10,8 @@ A stockmarket-app project
 
 ```bash
 # Clone the repository
-git clone https://github.com/amitdubeyup/stockmarket-app.git
-cd stockmarket-app
+git clone https://github.com/amitdubeyup/stock-market-tracker.git
+cd stock-market-tracker
 
 ```
 
@@ -34,7 +34,7 @@ Update the `.env` file with your configuration values.
 ## 📁 Project Structure
 
 ```
-stockmarket-app/
+stock-market-tracker/
 ├── .env.example
 ├── README.md
 ```
